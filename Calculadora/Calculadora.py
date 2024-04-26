@@ -47,7 +47,7 @@ def division_conjuntos(conjuntos):
   return resultado
 
 # Solicitar la cantidad de conjuntos de números
-cantidad_conjuntos = int(input("¿Cuántos conjuntos de números desea ingresar?: "))
+cantidad_conjuntos = int(input("¿Cuántos conjuntos de números desea calcular?: "))
 
 # Ingresar los conjuntos de números
 conjuntos = []
